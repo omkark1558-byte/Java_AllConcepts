@@ -10,13 +10,11 @@ public class Vidhyarti {
 		Scanner sc = new Scanner(System.in);
 		Vidhyarati student = new Vidhyarati();
 
-		System.out.println("Enter You Name:");
-		 
-		String Name = sc.nextLine();
-		String name = Name;
-		student.setName(name);
- 
-
+		/*
+		 * System.out.println("Enter You Name:");
+		 * 
+		 * String Name = sc.nextLine(); String name = Name; student.setName(name);
+		 */
 		System.out.println("Enter Your Mobile No:");
 		String Mobile_No = sc.next();
 		String mobile_no = Mobile_No;
