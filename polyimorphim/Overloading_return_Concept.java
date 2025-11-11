@@ -5,15 +5,8 @@ public class Overloading_return_Concept {
 	public static void main(String[] args) {
 	
 		  banks u=new Ban2();
-		  ((Ban2)u).apple();// Type casting 
-		  
-		   
-		  
- 
-		 Ban1 bn = new Ban2();
-		System.out.println(bn.Na());
-//		System.out.println(n.Name);
-		
+	//	  ((Ban2)u).apple();// Type casting 
+		  System.out.println(u.Na());
 	}
 }
  
@@ -79,5 +72,9 @@ class Ban2 extends Ban1
 	public void apple()
 	{
 		System.out.println("This is apple.");
+	}
+	public String Na()
+	{
+		return "Panjab bank";
 	}
 }
