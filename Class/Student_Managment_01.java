@@ -9,10 +9,8 @@ public class Student_Managment_01 {
 		
 		Scanner sc=new Scanner(System.in);
 		
-		int Roll;
-		String Name;
 //		String Name=new String("Omkar");
-		double Marks;
+//		double Marks;
 		
 		
 		System.out.println("Enter A Roll No :-");
@@ -51,8 +49,8 @@ public class Student_Managment_01 {
 		 * (Mark < 40) { System.out.println("Student " + Name1 + " is Fail...!"); } else
 		 * { System.out.println("Student " + Name1 + " is Passed...!"); }
 		 * 
-		 * sc.close();
-		 */
+		 */ sc.close();
+		
 	}
 
 }
