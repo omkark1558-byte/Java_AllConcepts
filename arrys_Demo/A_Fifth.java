@@ -6,12 +6,11 @@ public class A_Fifth {
 		 
 		Car Legender=new Car();
 		
-		 String Name="Legender";
-		 double price=25664.25;
 		 {
 			 
 		 System.out.println( Legender.Name );
 		 
+		 System.out.println("₹: "+Legender.Price);
 		 }
 	}
 
@@ -19,7 +18,7 @@ public class A_Fifth {
 
 class Car{
 	
-	String Name;
-	double Price;
+	String Name="Legender.";
+	float Price=450000.02f;
 	
 }
