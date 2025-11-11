@@ -25,18 +25,18 @@ public class String_02 {
 		
 		String sen1=sen.toUpperCase();
 		
-//		System.out.println(sen1.toLowerCase());
+		System.out.println(sen1.toLowerCase());
 //		sen1.valueOf(12);
-//		System.out.println(sen1);
+		System.out.println(sen1);
 		
-		int o=10;
-		int o1=2;
-		
+//		int o=10;
+//		int o1=2;
+//		
 //		System.out.println(o==o1);
 		
-		String Nameee="Omaa";
+//		String Nameee="Omaa";
 		
-		String Uo="Jikk";
+//		String Uo="Jikk";
 		
 		
 //		System.out.println(Nameee.equals(Uo));
