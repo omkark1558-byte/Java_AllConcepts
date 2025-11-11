@@ -8,6 +8,7 @@ public class string_01 {
 	public static void main(String[] args) {
 		 
 		Scanner sc=new Scanner(System.in); 
+
 		
 //		double Marks2=20.00;
 		System.out.println("Enter a Marks...!");	
@@ -26,5 +27,6 @@ public class string_01 {
 		{
 			System.out.println("<<<...Invaild marks...* Enter a vaild marks..>>>");
 		}
+		sc.close();
 	}
 }
