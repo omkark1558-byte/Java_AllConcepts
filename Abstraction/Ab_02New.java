@@ -50,20 +50,20 @@ class Jio2 extends Jio
 {
 
 	@Override
-	public void SIM(int i) {
-		 
+	public void SIM(int i) 
+	{
 		System.out.println("Nettwork .....!");
 	}
 
 	@Override
-	void Network(String st) {
-		 
+	void Network(String st) 
+	{
 		System.out.println("Jioooo.....!");
 	}
 
 	@Override
-	void Owner(String yo) {
-		 
-		System.out.println("<.AMBANI.>");
+	void Owner(String yo) 
+	{
+			System.out.println("<.AMBANI.>");
 	}	
 }
