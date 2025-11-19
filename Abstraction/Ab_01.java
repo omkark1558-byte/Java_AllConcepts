@@ -1,6 +1,6 @@
 package Abstraction;
 
-public class Ab_New01 {
+public class Ab_01{
 
 	public static void main(String[] args) {
 		 
