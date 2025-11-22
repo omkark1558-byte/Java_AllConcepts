@@ -30,7 +30,7 @@ class Apple implements frutes
 //		System.out.println("How many Foods...!");
 //	}
 
-	@Override
+ 
 	public int F_count() {
 		return 0;
 	}
