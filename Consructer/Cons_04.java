@@ -1,20 +1,16 @@
 package Consructer;
 
-
 public class Cons_04 {
 
 	public static void main(String[] args) {
-		
-		
- 
+				
+	 
 		
 		Bulding b=new Bulding(500000f);
 		
 //		b.Price=5700000f;
 		
 		b.AppartmentRate();
-	
-
 	}
 }
 
