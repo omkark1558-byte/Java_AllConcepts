@@ -8,7 +8,7 @@ class InvalidException extends Exception
 	}
 }
 
-public class First_1 {
+public class Exception_First_1 {
 
 	public static void main (String args[])
 	{
