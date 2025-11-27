@@ -10,8 +10,8 @@ public class HascodeMaaintain_03 {
 		
 		Student nmber = new Student(303,"NANDA");
 
-		System.out.println("nav Hashcode() :" + nav.hashCode());
-		System.out.println("Nmber Hashcode() :" + nmber.hashCode());
+		System.out.println("Nav Hashcode() : " + 	nav.hashCode());
+		System.out.println("Number Hashcode() : " +  nmber.hashCode());
 		
 	}
 
@@ -44,6 +44,6 @@ class Student{
 		
 		Student s = (Student) obj;
 		
-		return A = s.A && Objects.equals(A,s.Name);
+		return A == s.A && Objects.equals(Name,s.Name);
 	}
 }
