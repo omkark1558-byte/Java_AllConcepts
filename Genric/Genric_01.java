@@ -6,9 +6,9 @@ public class Genric_01 {
 	
 		ObjectAdder<String> uo = new ObjectAdder<String>();
 		
-		uo.add("100","200");
+		uo.add("100 : ","200 : ");
 		
-		System.out.println(uo.getinstance("TInkljaksjk"));
+		System.out.println(uo.getinstance("GENRICES MOTHODE..1"));
 	}
 }
 
@@ -37,6 +37,7 @@ class ObjectAdder<Y> implements Iki<Y>{
 		{
 			return((String)o).length();
 		}
+		
 		return 0;
 	}
 }	
