@@ -12,6 +12,9 @@ public class inter_01 {
 		 
 	}
 }
+
+
+
 interface UPI
 {
 	void Phone_pay(int a);
@@ -25,25 +28,25 @@ interface UPI
 class Payments implements UPI
 {
 
-	@Override
+	 
 	public void Phone_pay(int a) {
 		 System.out.println("Phone-Pe :");
 		
 	}
 
-	@Override
+	 
 	public void Goggle_pay(int b) {
 			 System.out.println("G-Pay :");
 		
 	}
 
-	@Override
+	 
 	public void Zapya_pay(int c) {
 		 System.out.println("Zapya-Pe :");
 		 
 	}
 
-	@Override
+	 
 	public void Paytem_pay(int d) {
 		 System.out.println("Payment-Pe");
 		
