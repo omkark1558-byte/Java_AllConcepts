@@ -16,12 +16,6 @@ public class Hascode_01 {
 	
 		System.out.println(i.hashcode());
 		System.out.println(U.hashcode());
-		
-		
-		
-		
-		
-
 	}
 
 }
