@@ -20,4 +20,3 @@ public class Collection_05 {
 	}
 }
 
-// class 
