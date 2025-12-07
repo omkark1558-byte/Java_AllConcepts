@@ -2,7 +2,7 @@ package Colllection;
 
 import java.util.*;
 
-public class Collection_2_ {
+public class Collection_02 {
 	public static void main(String args[]) {
 
 		
