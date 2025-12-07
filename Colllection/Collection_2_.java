@@ -14,19 +14,20 @@ public class Collection_2_ {
 		
 		System.out.println("Boolean Value Concider : " + arr.add(45));  
 		
-		arr.add(50);  
-		arr.add(69); 
-		
-		arr.add(25);
-		arr.add(27);
-		arr.add(29);
-		arr.add(32);
+		arr.add(20);  
+		arr.add(25); 
+		arr.add(30);
+		arr.add(35);
+		arr.add(40);
+		arr.add(45);
 		
 		
 		System.out.println(arr.get(5));
 		System.out.println("Get First Array  : "+ arr.getFirst());
 		System.out.println(arr.get(6));
-	
+		System.out.println("Array list .."+arr);
+		System.out.println(arr.getLast());
+		arr.getLast();
 	}
 
 }
