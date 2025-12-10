@@ -18,6 +18,8 @@ public class Logical_02 {
 		System.out.println(List);
 		System.err.println(List.remove(1));
 	//	System.out.println(List.remove(List));
+		
+		
 	}
 
 }
