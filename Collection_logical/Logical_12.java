@@ -40,5 +40,10 @@ public class Logical_12 {
 			System.out.print(list.get(i));
 		}
 		System.out.println();
+		
+		
+		// Sort Method Use the sort elements
+		Collections.sort(list);
+		System.out.println(list);
 	}
 }
