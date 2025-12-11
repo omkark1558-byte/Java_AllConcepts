@@ -25,12 +25,10 @@ public class Logical_09 {
 				list.remove(i);
 				--i;
 			//	i++;
+				
 			}
-			
 		}
-		
 		System.out.println(list);
 		
 	}
-
 }
