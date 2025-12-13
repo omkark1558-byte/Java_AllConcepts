@@ -20,7 +20,6 @@ public class Logical_14 {
 		System.out.println(n.equals(b));
 		System.out.println(b.equals(n));
 	}
-
 }
 
 class Book1 {
