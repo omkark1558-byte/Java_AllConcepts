@@ -11,7 +11,7 @@ public class Logical_18 {
 		map.put(102,"NAN");
 		
 		System.out.println(map);
+		 
 	}
-
 }
  
