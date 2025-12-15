@@ -1,4 +1,4 @@
-package Colllection;
+package list_Collection_new;
 
 import java.util.*;
 
