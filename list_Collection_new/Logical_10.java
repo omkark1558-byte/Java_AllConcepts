@@ -36,4 +36,3 @@ public class Logical_10 {
  * RetailAll Method is retain the elements in list 
  * Collection class elements Secife collection of elements
  */
-/*
