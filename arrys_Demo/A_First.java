@@ -31,7 +31,8 @@ public class A_First {
 				System.out.println(chars[0]);
 				System.out.println(chars[1]);
 				System.out.println(chars[2]);
-					
+
+				System.out.println(chars);
 
 	}
 }
